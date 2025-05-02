@@ -1,5 +1,9 @@
+:root {
+  --bg-secondary: #eeeeee
+}
+
 aside {
-    width: 250px;
+    width: 200px;
     border-right: 1px solid #e5e7eb;
     background: var(--bg-secondary);
     padding: 1rem;
